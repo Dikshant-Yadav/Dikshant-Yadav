@@ -7,7 +7,6 @@
   👋 Passionate Coder | ML & Web Developer
 </p>
 
----
 
 <h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">💻 Skills</h2>
 <p style="font-family:'consolas', sans-serif; font-size: 12px; font-weight: 200;">
@@ -16,7 +15,7 @@
 <strong>Other Knowledge Areas:</strong> Data Structures & Algorithms (DSA) | Machine Learning (ML) | Deep Learning (DL) | Low-Level Design (LLD)
 </p>
 
----
+
 
 <h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">🚀 What I Do</h2>
 <p style="font-family:'consolas', sans-serif; font-size: 12px; font-weight: 200;">
@@ -26,7 +25,7 @@
 - Learn and apply <strong>Low-Level Design</strong> principles in software projects
 </p>
 
----
+
 
 <h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">📂 Projects</h2>
 <p style="font-family:'consolas', sans-serif; font-size: 12px; font-weight: 200;">
@@ -34,7 +33,7 @@ I've built a few projects that helped me strengthen my skills in <strong>web dev
 (You can check my Repo; all projects are there)
 </p>
 
----
+
 
 <h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">🌱 Currently Learning</h2>
 <p style="font-family:'consolas', sans-serif; font-size: 12px; font-weight: 200;">
@@ -43,7 +42,7 @@ I've built a few projects that helped me strengthen my skills in <strong>web dev
 - Exploring <strong>system design & low-level design patterns</strong>
 </p>
 
----
+
 
 <h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">📊 GitHub Stats</h2>
 
@@ -51,12 +50,12 @@ I've built a few projects that helped me strengthen my skills in <strong>web dev
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshant-Yadav&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
+
 
 📫 Connect with me: [LinkedIn](www.linkedin.com/in/dikshant-yadav-9bb898291) | 📫 Email: [Send MAIL here ✉️](yadavdikshant22@gmail.com)
 
 
----
+
 
 <p align="center" style="font-family:'consolas', sans-serif; font-size: 24px; font-weight: 200;">
   **Let's connect and create something amazing together!** 🚀
