@@ -19,11 +19,11 @@
 
 <h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">>> What I Do</h2>
 <p style="font-family:'consolas', sans-serif; font-size: 12px; font-weight: 200;">
-> For DSA, I solve problems using arrays, strings, trees, graphs, recursion, and dynamic programming with optimized time & space complexity.
-> For backend & scalable software, I use OOPs, SOLID principles, and Low-Level Design to write clean, maintainable code.
-> For web applications, I build full-stack apps using React, Node.js, Express, MongoDB, and REST APIs.
-> For system design, I apply design patterns and LLD concepts to build scalable systems.
-> For ML/DL projects, I work with supervised/unsupervised learning, neural networks, and Python libraries.
+> For DSA, I solve problems using arrays, strings, trees, graphs, recursion, and dynamic programming with optimized time & space complexity.<br>
+> For backend & scalable software, I use OOPs, SOLID principles, and Low-Level Design to write clean, maintainable code.<br>
+> For web applications, I build full-stack apps using React, Node.js, Express, MongoDB, and REST APIs.<br>
+> For system design, I apply design patterns and LLD concepts to build scalable systems.<br>
+> For ML/DL projects, I work with supervised/unsupervised learning, neural networks, and Python libraries.<br>
 > For development/workflow, I use Git/GitHub, Docker, and basic deployment practices.
 </p>
 
