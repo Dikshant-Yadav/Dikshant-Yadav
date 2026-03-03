@@ -17,7 +17,7 @@
 
 
 
-<h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">🚀 What I Do</h2>
+<h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">--> What I Do</h2>
 <p style="font-family:'consolas', sans-serif; font-size: 12px; font-weight: 200;">
 - Build full-stack web applications using <strong>MERN Stack</strong><br>
 - Solve algorithmic problems and implement <strong>DSA algorithms</strong><br>
@@ -27,7 +27,7 @@
 
 
 
-<h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">📂 Projects</h2>
+<h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">-->Projects</h2>
 <p style="font-family:'consolas', sans-serif; font-size: 12px; font-weight: 200;">
 I've built a few projects that helped me strengthen my skills in <strong>web development, algorithms, and ML</strong>.<br>
 (You can check my Repo; all projects are there)
@@ -35,7 +35,7 @@ I've built a few projects that helped me strengthen my skills in <strong>web dev
 
 
 
-<h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">🌱 Currently Learning</h2>
+<h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">--> Currently Learning</h2>
 <p style="font-family:'consolas', sans-serif; font-size: 12px; font-weight: 200;">
 - Advanced <strong>Machine Learning and Deep Learning</strong><br>
 - Scalable <strong>web development practices</strong><br>
@@ -44,7 +44,7 @@ I've built a few projects that helped me strengthen my skills in <strong>web dev
 
 
 
-<h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">📊 GitHub Stats</h2>
+<h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">--> GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshant-Yadav&layout=compact&theme=tokyonight" alt="Top Languages" />
