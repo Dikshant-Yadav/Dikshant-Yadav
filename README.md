@@ -19,10 +19,12 @@
 
 <h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">>> What I Do</h2>
 <p style="font-family:'consolas', sans-serif; font-size: 12px; font-weight: 200;">
-- Build full-stack web applications using <strong>MERN Stack</strong><br>
-- Solve algorithmic problems and implement <strong>DSA algorithms</strong><br>
-- Explore <strong>ML and DL concepts</strong> through small projects<br>
-- Learn and apply <strong>Low-Level Design</strong> principles in software projects
+> For DSA, I solve problems using arrays, strings, trees, graphs, recursion, and dynamic programming with optimized time & space complexity.
+> For backend & scalable software, I use OOPs, SOLID principles, and Low-Level Design to write clean, maintainable code.
+> For web applications, I build full-stack apps using React, Node.js, Express, MongoDB, and REST APIs.
+> For system design, I apply design patterns and LLD concepts to build scalable systems.
+> For ML/DL projects, I work with supervised/unsupervised learning, neural networks, and Python libraries.
+> For development/workflow, I use Git/GitHub, Docker, and basic deployment practices.
 </p>
 
 
