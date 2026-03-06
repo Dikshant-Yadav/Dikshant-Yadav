@@ -10,8 +10,8 @@
 
 <h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">>>  Skills</h2>
 <p style="font-family:'consolas', sans-serif; font-size: 12px; font-weight: 200;">
-<strong>Programming Languages:</strong> Python <> C++(I prefer this) <> Java (sometimes I use this as well) <> JavaScript <br>
- <strong>Tools:</strong> Docker <> Kubernetes <> VS Code <> Postman 
+<strong><u>Programming Languages</u>u:</strong> Python <> C++(I prefer this) <> Java (sometimes I use this as well) <> JavaScript <br>
+ <strong>Tools:</strong> Docker <> Kubernetes <> VS Code <> Postman <br>
   <strong>Databases:</strong> SQL (MySQL) <> MongoDB <br>
 <strong>Frameworks & Stacks:</strong> MERN Stack<br>
 <strong>Other Knowledge Areas:</strong> Data Structures & Algorithms (DSA) <> DBMS <> Machine Learning (ML) <> Deep Learning (DL) <> Low-Level Design (LLD)
