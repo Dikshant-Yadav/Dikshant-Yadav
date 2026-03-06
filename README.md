@@ -48,12 +48,7 @@ I've built a few projects that helped me strengthen my skills in <strong>web dev
 
 
 
-<h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">>> GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dikshant-Yadav&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
+<h2 style="font-family:'Impact', 'consolas', sans-serif; font-size: 32px;">>> Connect With Me :)</h2>
 
 
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/dikshant-yadav-9bb898291) | 📧 Email: [yadavdikshant22@gmail.com](mailto:yadavdikshant22@gmail.com)
@@ -62,5 +57,5 @@ I've built a few projects that helped me strengthen my skills in <strong>web dev
 
 
 <p align="center" style="font-family:'consolas', sans-serif; font-size: 24px; font-weight: 200;">
-  **Let's connect and create something amazing together!** 🚀
+  Let's connect and create something amazing together! 
 </p>
