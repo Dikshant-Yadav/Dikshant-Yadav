@@ -56,7 +56,7 @@ I've built a few projects that helped me strengthen my skills in <strong>web dev
 
 
 
-📫 Connect with me: [LinkedIn](www.linkedin.com/in/dikshant-yadav-9bb898291) | 📫 Email: [Send MAIL here ✉️](yadavdikshant22@gmail.com)
+📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/dikshant-yadav-9bb898291) | 📧 Email: [yadavdikshant22@gmail.com](mailto:yadavdikshant22@gmail.com)
 
 
 
