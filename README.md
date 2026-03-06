@@ -4,7 +4,7 @@
 </h1>
 <br>
 <p align="center" style="font-size: 24px; margin-top: -10px; font-family:'consolas', sans-serif; font-weight: 200;">
-  >> Software Engineer | Building Scalable Solutions | Seeking Impactful Roles
+  Software Engineer | Building Scalable Solutions | Seeking Impactful Roles
 </p>
 
 
